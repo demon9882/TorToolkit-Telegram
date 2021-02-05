@@ -4,7 +4,7 @@ The bot gets started with minimum variables and others can be set as and when ne
 
 # Deploy To HEROKU
 
-[![Deploy](https://telegra.ph/file/e7d224c45cf1d106a28fa.png)](https://heroku.com/deploy?template=https://github.com/sahadz/TorToolkit-Telegram)
+[![Deploy](https://telegra.ph/file/e7d224c45cf1d106a28fa.png)](https://heroku.com/deploy?template=https://github.com/demon9882/TorToolkit-Telegram)
 
 According to me this platform provides resources which are enough for a genuine user and by default prevents Abuse:
 Click to see video guide to see how to deploy. Web is not yet available but soon will be available on zeet.
