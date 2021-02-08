@@ -10,7 +10,7 @@
     "uploader",
     "rclone"
   ],
-  "success_url": "https://telegram.dog/public_leechs",
+  "success_url": "https://telegram.dog/death898",
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
