@@ -17,7 +17,7 @@ async def aria_start():
     # aria2_daemon_start_cmd.append("--allow-overwrite=true")
     aria2_daemon_start_cmd.append("--daemon=true")
     aria2_daemon_start_cmd.append("--enable-rpc")
-    aria2_daemon_start_cmd.append("--disk-cache=0")
+    # aria2_daemon_start_cmd.append("--disk-cache=0")
     aria2_daemon_start_cmd.append("--follow-torrent=mem")
     aria2_daemon_start_cmd.append("--max-connection-per-server=10")
     aria2_daemon_start_cmd.append("--min-split-size=10M")
